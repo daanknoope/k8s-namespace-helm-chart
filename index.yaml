@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  namespace-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-06-14T22:24:18.639926386Z"
+    description: Helm chart for creating Kubernetes namespaces
+    digest: 0cd10e88619e868ccdd202d6842c682208c6e0453069f9b3cf5d889b2ec7d0e7
+    name: namespace-chart
+    type: application
+    urls:
+    - https://github.com/daanknoope/k8s-namespace-helm-chart/releases/download/namespace-chart-0.0.1/namespace-chart-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-06-14T22:24:18.639936355Z"
